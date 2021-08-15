@@ -1,7 +1,7 @@
 public class JosephusProblem {
     public static void main(String[] args) {
-
-       jos(1, 3);
+        
+       System.out.println(jos(5 , 3));
         
     }
 
